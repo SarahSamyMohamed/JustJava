@@ -1,0 +1,23 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">مجرد جافا</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="name">الاسم</string>
+    <string name="toppings">اضافات</string>
+    <string name="whipped_cream">كريمه مخفوقه (+1 دولار)</string>
+    <string name="chocolate">شوكولاته (+2 دولار)</string>
+    <string name="quantity">الكميه</string>
+    <string name="order_summery">ملخص الطلب</string>
+    <string name="EGP">جنيه مصرى</string>
+    <string name="order">اطلب</string>
+
+    <string name="order_summary_name">الاسم:<xliff:g example="sarah" id="name">%s</xliff:g></string>
+    <string name="order_summary_whipped_cream">اضافه كريمه مخفوقه؟</string>
+    <string name="order_summary_chocolate">اضافه شوكولاته؟</string>
+    <string name="order_summary_quantity">الكميه</string>
+    <string name="order_summary_price">الاجمالى : <xliff:g id="price">%d</xliff:g> جنيه مصرى</string>
+    <string name="thank_you">شكرا لك!</string>
+    <string name="increment_toast">لا يمكنك الحصول على اكثر من 100 كوب</string>
+    <string name="decrement_toast">لا يمكنك الحصول على اقل من 1 كوب</string>
+    <string name="mail_to_subject_value">مجرد جافا طلب ل</string>
+</resources>

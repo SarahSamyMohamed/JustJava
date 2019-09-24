@@ -1,0 +1,26 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="name">Name</string>
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped cream (+1$)</string>
+    <string name="chocolate">Chocolate (+2$)</string>
+    <string name="quantity">Quantity</string>
+    <string name="initial_quantity_value" translatable="false">0</string>
+    <string name="order_summery">Order Summery</string>
+    <string name="EGP">EGP</string>
+    <string name="order">Order</string>
+
+    <string name="order_summary_name">Name: <xliff:g example="sarah" id="name">%s</xliff:g></string>
+    <string name="order_summary_whipped_cream">Add Whipped Cream?</string>
+    <string name="order_summary_chocolate">Add Chocolate?</string>
+    <string name="order_summary_quantity">Quantity :</string>
+    <string name="order_summary_price">Total : EGP<xliff:g id="price">%d</xliff:g></string>
+    <string name="thank_you">Thank you!</string>
+
+    <string name="increment_toast">You cannot have more than 100 coffees</string>
+    <string name="decrement_toast">You cannot have less than 1 coffee</string>
+
+    <string name="mail_to_subject_value">Just Java order for</string>
+</resources>
